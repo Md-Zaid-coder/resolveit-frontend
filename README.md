@@ -34,3 +34,15 @@ ResolveIT/
 
 ## ▶️ How to Run Frontend (Recommended for Demo)
 
+npm install
+npm start
+The application will run on:
+
+---
+
+## 📌 Features
+- Login UI
+- Dashboard
+- Grievance Management
+- Feedback Module
+- Admin Panel UI
